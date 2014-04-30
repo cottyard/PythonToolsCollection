@@ -1,0 +1,10 @@
+<ttt>
+   <repeat begin="0" end="len(groceries)-1">
+      <repeat>
+         <begin>0</begin>
+         <end>len(groceries[<index/>])-1</end>
+         <define tag='item'>groceries[<index nest="1"/>][<index/>]</define>
+         <raw><index/> <item/><br/></raw>
+      </repeat>
+   </repeat>
+</ttt>

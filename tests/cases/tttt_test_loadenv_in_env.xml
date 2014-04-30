@@ -1,0 +1,6 @@
+<ttt>
+   <loadenv src='env_dict_delegate.py'/>
+   <enumerate container="mysterious" item="i">
+      <raw><index/> <i/><br/></raw>
+   </enumerate>
+</ttt>

@@ -1,0 +1,9 @@
+<ttt>
+   <transform template="tttt_test_select.xml">
+      <environment>
+{
+   'fruit' : fruit
+}
+      </environment>
+   </transform>
+</ttt>

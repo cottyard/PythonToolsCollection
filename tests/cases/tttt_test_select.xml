@@ -1,0 +1,8 @@
+<ttt>
+   <select cond="fruit">
+      <case cond="'cherry'"><raw>More, please.</raw></case>
+      <case cond="'cantaloupe'"><raw>I'm full.</raw></case>
+      <case cond="'durian'"><raw>Call 911.</raw></case>
+      <default><raw>No thanks.</raw></default>
+   </select>
+</ttt>

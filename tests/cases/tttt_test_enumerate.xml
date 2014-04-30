@@ -1,0 +1,7 @@
+<ttt>
+   <enumerate container="groceries" item="grocery">
+      <enumerate container="grocery" item="stuff">
+         <raw><index/> <stuff/><br/></raw>
+      </enumerate>
+   </enumerate>
+</ttt>

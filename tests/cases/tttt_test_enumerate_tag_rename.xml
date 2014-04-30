@@ -1,0 +1,5 @@
+<ttt>
+   <enumerate container="fruit_list" order="lambda item: item" order_tag="o" index_tag="i">
+      <raw><i/> <o/><br/></raw>
+   </enumerate>
+</ttt>

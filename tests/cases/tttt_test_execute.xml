@@ -1,0 +1,7 @@
+<ttt>
+   <execute>
+fruit = "dog food"
+   </execute>
+   <define tag="fruit">fruit</define>
+   <raw><fruit/> is my favourite</raw>
+</ttt>

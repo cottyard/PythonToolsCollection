@@ -1,0 +1,5 @@
+<ttt>
+   <enumerate container="fruit_list" item="fruit" unique="yes">
+      <raw><fruit/><br/></raw>
+   </enumerate>
+</ttt>

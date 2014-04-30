@@ -1,0 +1,10 @@
+<ttt>
+   <execute>i = 0</execute>
+   <repeat>
+      <times>len(fruit_list)</times>
+      <define tag="i">i</define>
+      <define tag="item">fruit_list[<i/>]</define>
+      <item/><br/>
+      <execute>i += 1</execute>
+   </repeat>
+</ttt>
